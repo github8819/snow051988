@@ -71,3 +71,5 @@ SELECT * FROM customer_table;
 
 DESC TABLE customer_table;
 SELECT * FROM customer_table;
+
+--Case senisitive use
